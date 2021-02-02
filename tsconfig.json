@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": [
+            "dom",
+            "es5",
+            "es2015"
+        ],
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "noEmit": true,
+        "target": "ES5"
+    },
+    "files": [
+        "index.ts"
+    ]
+}
